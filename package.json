@@ -1,0 +1,11 @@
+{
+  "name": "sounds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/talentAN/sounds.git",
+  "scripts": {
+    "stage": "git add . && git commit -am 'update' &&  git push origin HEAD"
+  },
+  "author": "anzhen <anzhen@sensorsdata.com>",
+  "license": "MIT"
+}
