@@ -2,7 +2,9 @@
 
 ### 活火山
 
-### 《东方红》
+#### 《东方红》√
+
+#### 《活着》 by 郝云 √
 
 #### 《Look at me now》 by Charlie Puth
 
@@ -10,11 +12,11 @@
 
 #### 《你的答案》by 子尧
 
-#### 《亲爱的旅人啊》by 周深
+#### 《亲爱的旅人啊》by 周深 √
 
 #### 《生活不止眼前的苟且》by 许巍
 
-#### 《The Nights》 by Avicii Nicholas
+#### 《The Nights》 by Avicii Nicholas √
 
 #### 《Traveling Light》 by Joel Hanson
 
