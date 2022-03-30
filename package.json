@@ -1,6 +1,7 @@
 {
   "name": "sounds",
   "version": "1.0.0",
+  "description": "老夫至少喜欢过一年以上的歌",
   "main": "index.js",
   "repository": "https://github.com/talentAN/sounds.git",
   "scripts": {
