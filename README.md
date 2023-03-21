@@ -5,7 +5,7 @@
 ### B
 #### 《白鸽》by 伍佰
 ### C
-#### 错位时空(五四特别版) by 共青团中央
+#### 错位时空(五四特别版) by 共青团中央 √
 ### D
 #### 《东方红》√
 
@@ -21,7 +21,7 @@
 ### L
 #### 《淋雨一直走》 by 张韶涵
 
-#### 《Look at me now》 by Charlie Puth
+#### 《Look at me now》 by Charlie Puth √
 
 ### N
 #### 《你曾是少年》by S.H.E
@@ -42,7 +42,7 @@
 
 #### 《The Nights》 by Avicii Nicholas √
 
-#### 《Traveling Light》 by Joel Hanson
+#### 《Traveling Light》 by Joel Hanson √
 
 #### 《童话镇》by 陈一发
 
